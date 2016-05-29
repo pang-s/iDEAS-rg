@@ -2,18 +2,20 @@
 
 an idea app created at Rails Girls 2016
 
-create an account to store your ideas...
-- account links to gravatar
+create an account to store your ideas (account links to gravatar)
 
-* ruby 2.2
+* ruby v2.2.3
 
-= see it at:
+===== see it at:
 
-https://ideas-rg.herokuapp.com/
+https://ideas-rg.herokuapp.com
 
 or
 
-- install rails
+- install ruby and rails
 - type in terminal
-  <tt>rails server</tt>.
-- open http://localhost:3000/
+  - <tt>bundle install</tt>
+  - <tt>rails server</tt>
+- open http://localhost:3000
+
+:tada:

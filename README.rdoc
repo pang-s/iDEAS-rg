@@ -18,4 +18,8 @@ or
   - <tt>rails server</tt>
 - open http://localhost:3000
 
+====== to do: make ideas private??? or default comment username to login?
+
 :tada:
+
+
